@@ -1,0 +1,11 @@
+.error input {
+    border: 2px solid red;
+}
+
+.error span {
+    color: red;
+}
+
+.form_control input {
+    width: 250px;
+}
